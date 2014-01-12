@@ -4,7 +4,7 @@
 #	Author: Sunny Verma
 #	Email: er.sunny.verma@gmail.com
 #	Website: http://99webtools.com
-#	License: GPL 2.0, @see http://www.gnu.org/licenses/gpl-2.0.html
+#	License: GPL 3.0, @see http://www.gnu.org/licenses/gpl-3.0.html
 ########################################################################
 class Whois{
 private $WHOIS_SERVERS = array(
