@@ -15,3 +15,5 @@ echo '<pre>'.$rs.'</pre>';
 ?>
 
 ```
+
+Read more how this script works http://99webtools.com/php-whois-script.php
