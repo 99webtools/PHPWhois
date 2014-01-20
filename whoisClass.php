@@ -1,3 +1,4 @@
+<?php
 #######################################################################
 #				PHP Whois Lookup Class
 #	Script Url: http://99webtools/php-whois-script.php
@@ -189,3 +190,4 @@ fclose($fp);
 return $out;
 }
 }
+?>
